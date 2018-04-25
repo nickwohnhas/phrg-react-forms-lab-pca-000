@@ -61,3 +61,4 @@ General notes for this lab:
 ## Resources
 
 * [React Forms](https://facebook.github.io/react/docs/forms.html)
+<p data-visibility='hidden'>PHRG React Controlled Components Lab</p>
